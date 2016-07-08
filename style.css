@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+#plus, #minus, #counter1 {
+  display: inline;
+  font-size: 3em;
+}
+
+#emailer {
+  display: block;
+  font-size: 1em;
+  margin-top: 20px;
+}
